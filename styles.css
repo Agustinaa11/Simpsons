@@ -38,9 +38,9 @@ body {
 }
 
 .correcto {
-  background-color: #c8e6c9; /* Verde claro */
+  background-color: #c8e6c9;
 }
 
 .incorrecto {
-  background-color: #ffcdd2; /* Rojo claro */
+  background-color: #ffcdd2; 
 }
